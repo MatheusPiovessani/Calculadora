@@ -64,7 +64,7 @@
 
             // Use regex para detectar o operador na posição correta
             const match = expressao.match(/^(-?[\d.]+)([+\-*\/])(-?[\d.]+)$/);
-            if (!match || expressao) {
+            if (!match) {
                 document.getElementById('visor').value = "Expressão inválida";
                 return;
             }
