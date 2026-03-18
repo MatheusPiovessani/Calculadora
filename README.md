@@ -99,7 +99,7 @@ cd Calculadora
 ./mvnw spring-boot:run
 ```
 
-Acesse no navegador: [http://localhost:8080](http://localhost:8080)
+Acesse no navegador: [Calculadora](https://calculadora-projeto.up.railway.app/)
 
 ---
 
